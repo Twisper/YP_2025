@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="637d5a3c-7c9f-4aca-93a7-be53972197ba" name="Changes" comment="Первое задание">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="637d5a3c-7c9f-4aca-93a7-be53972197ba" name="Changes" comment="Второе задание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
     "Python.Task2.executor": "Run",
     "Python.scratch_2.executor": "Run",
     "Python.scratch_3.executor": "Run",
+    "Python.scratch_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/mikhailulyanov/Documents/YP_2025"
@@ -77,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1742474928536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Второе задание">
+      <option name="closed" value="true" />
+      <created>1742483851104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742483851104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первое задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Первое задание" />
+    <MESSAGE value="Второе задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Второе задание" />
   </component>
 </project>
